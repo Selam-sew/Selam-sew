@@ -2,7 +2,6 @@
   
  <img align="center" src="https://cdn.dribbble.com/users/2317423/screenshots/16236652/media/b13b4a376ff810e7f35a720e6cbd6299.jpg?resize=400x0" alt="" />
 <h1 align="center">Hi 👋, I'm Selamsew Teshome</h1>
-# Hi there, I'm [Your Name] 👋
 
 I'm a passionate Front-End Developer specializing in creating interactive and responsive web applications. My expertise lies in using modern technologies to build efficient and scalable user interfaces.
 
