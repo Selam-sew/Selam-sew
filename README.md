@@ -8,7 +8,7 @@ I'm a passionate Front-End Developer specializing in creating interactive and re
 ## 🚀 Skills and Technologies
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks and Libraries:** React, Redux
+- **Frameworks and Libraries:** React,Next js, Redux
 - **Styling:** Tailwind CSS
 - **Testing:** Jest
 
